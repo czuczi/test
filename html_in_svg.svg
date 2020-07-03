@@ -4,7 +4,7 @@
       <div>The quick brown fox jumps over the lazy dog. Pack my box with
          five dozen liquor jugs</div>
 		 <script>alert(0);</script>
-		 <script>document.write(Date());</script>
+		 <script>console.log("Hello world!");</script>
     </body>
   </foreignObject>
 </svg>
