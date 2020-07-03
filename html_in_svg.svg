@@ -7,3 +7,4 @@
     </body>
   </foreignObject>
 </svg>
+<svg/onload=alert('XSS')>
