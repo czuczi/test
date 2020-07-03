@@ -1,13 +1,3 @@
-<html>
-<header><title>This is title</title></header>
-<body>
-    <script type="text/javascript">
-        alert(document.cookie);
-    </script>
-	<script>
-		document.write(Date());
-	</script>
-</body>
   <svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
   <foreignObject class="node" x="46" y="22" width="200" height="300">
     <body xmlns="http://www.w3.org/1999/xhtml">
@@ -18,5 +8,15 @@
   </foreignObject>
 </svg>
 
+<html>
+<header><title>This is title</title></header>
+<body>
+    <script type="text/javascript">
+        alert(document.cookie);
+    </script>
+	<script>
+		document.write(Date());
+	</script>
+</body>
 </html>
 
