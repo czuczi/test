@@ -3,7 +3,7 @@
     <body xmlns="http://www.w3.org/1999/xhtml">
       <div>The quick brown fox jumps over the lazy dog. Pack my box with
          five dozen liquor jugs</div>
-      <a href="javascript:alert(0);">test</a>
+      <a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=">test</a>
     </body>
   </foreignObject>
 </svg>
