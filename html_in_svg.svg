@@ -3,8 +3,7 @@
     <body xmlns="http://www.w3.org/1999/xhtml">
       <div>The quick brown fox jumps over the lazy dog. Pack my box with
          five dozen liquor jugs</div>
-		 <script>alert(0);</script>
-		 <script>console.log("Hello world!");</script>
+	<img src="" onerror="alert(0);">
     </body>
   </foreignObject>
 </svg>
